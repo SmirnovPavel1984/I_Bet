@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">I Bet</string>
+    <string name="disput_theme">Тема спора:</string>
+    <string name="hint_et_disput_theme">введите название</string>
+    <string name="disput_description">О чём спорить будем?</string>
+    <string name="disput_descr_hint">В чём заключается спор</string>
+    <string name="lets_bet">СПОРИМ!</string>
+    <string name="Email_hint">e-mail</string>
+    <string name="password_hint">пароль</string>
+    <string name="log_in">Войти</string>
+    <string name="forget_password">забыл пароль</string>
+    <string name="google_sign_in">Войти через Google</string>
+    <string name="to_register">зарегистрироваться</string>
+    <string name="to_remind">восстановить пароль</string>
+    <string name="register_error">Ошибка регистрации</string>
+    <string name="send_email">На Вашу почту отправлено письмо. Подтвердите почту.</string>
+    <string name="send_email_error">Ошибка: письмо не отправлено</string>
+    <string name="login_error">Ошибка входа</string>
+    <string name="forget_password_form">Восстановление пароля</string>
+    <string name="registration">Регистрация</string>
+    <string name="send_password">Ссыдка на восстановление пароля отправлена на почту</string>
+    <string name="bet_type">На что спорим?</string>
+    <string name="ratio">Рейтинг</string>
+    <string name="money">Деньги</string>
+    <string name="bet">Ставка:</string>
+
+</resources>

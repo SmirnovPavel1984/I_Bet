@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15037425306",
+    "firebase_url": "https://ibet-19372-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ibet-19372",
+    "storage_bucket": "ibet-19372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15037425306:android:12101ee297b35b87862123",
+        "android_client_info": {
+          "package_name": "com.smirnovpavel.ibet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15037425306-fdf3lr2559h7nrj14ijphlnoj54sp2j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smirnovpavel.ibet",
+            "certificate_hash": "96ee72c37815b3f2120619ef0e0479ce30c1c59e"
+          }
+        },
+        {
+          "client_id": "15037425306-8t23i7viv41uhi4bll37v7bj3vfd41fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2S4KvixTVh5f5NaRsPO0UM_niuIkaLwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15037425306-8t23i7viv41uhi4bll37v7bj3vfd41fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
